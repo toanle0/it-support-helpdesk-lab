@@ -43,9 +43,11 @@ Explanation of the simulated IT support environment.
 * Password reset request
 
 
+```
 it-support-helpdesk-lab
-│
 ├── README.md
+├── run-helpdesk-demo.ps1
+├── Screenshot-2026-03-14-015923.png
 │
 ├── tickets
 │   ├── ticket-password-reset.md
@@ -66,6 +68,7 @@ it-support-helpdesk-lab
 │
 └── lab-setup
     └── helpdesk-lab-environment.md
+```
 
 
 # Run Example
