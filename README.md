@@ -78,3 +78,6 @@ powershell
 This script simulates common IT support troubleshooting tasks including system diagnostics, network connectivity testing, disk usage analysis, and process monitoring.
 
 
+## Example Script Output
+
+![Helpdesk Diagnostics Demo](Screenshot-2026-03-14-015923.png)
