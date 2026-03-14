@@ -41,3 +41,28 @@ Explanation of the simulated IT support environment.
 * Printer offline
 * Slow Windows computer
 * Password reset request
+
+
+it-support-helpdesk-lab
+│
+├── README.md
+│
+├── tickets
+│   ├── ticket-password-reset.md
+│   ├── ticket-printer-offline.md
+│   ├── ticket-outlook-not-syncing.md
+│   └── ticket-slow-computer.md
+│
+├── knowledge-base
+│   ├── kb-password-reset.md
+│   ├── kb-printer-troubleshooting.md
+│   ├── kb-outlook-sync-fix.md
+│   └── kb-windows-slow-performance.md
+│
+├── scripts
+│   ├── system-diagnostics.ps1
+│   ├── disk-check.ps1
+│   └── network-test.ps1
+│
+└── lab-setup
+    └── helpdesk-lab-environment.md
