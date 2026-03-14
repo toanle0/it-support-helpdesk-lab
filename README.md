@@ -66,3 +66,15 @@ it-support-helpdesk-lab
 │
 └── lab-setup
     └── helpdesk-lab-environment.md
+
+
+# Run Example
+
+To run the IT support diagnostic demo:
+
+powershell
+.\run-helpdesk-demo.ps1
+
+This script simulates common IT support troubleshooting tasks including system diagnostics, network connectivity testing, disk usage analysis, and process monitoring.
+
+
