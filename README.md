@@ -88,3 +88,5 @@ This script simulates common IT support troubleshooting tasks including system d
 
 ![Helpdesk Demo Output](Screenshot 2026-03-14 015923.png)
 Screenshot 2026-03-14 015923.png
+
+![Helpdesk Diagnostics Demo](Screenshot%202026-03-14%20015923.png)
