@@ -80,4 +80,4 @@ This script simulates common IT support troubleshooting tasks including system d
 
 ## Example Script Output
 
-![Helpdesk Diagnostics Demo](Screenshot-2026-03-14-015923.png)
+![Helpdesk Diagnostics Demo](images/Screenshot-2026-03-14-015923.png)
